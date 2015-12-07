@@ -1,4 +1,5 @@
 # [Nginx Server Configs](https://github.com/h5bp/server-configs-nginx)
+kot
 
 **Nginx Server Configs** is a collection of configuration snippets that can help
 your server improve the web site's performance and security, while also
